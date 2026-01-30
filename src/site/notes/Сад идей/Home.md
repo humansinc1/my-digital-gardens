@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sad-idej/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/sad-idej/home/","pinned":"true","tags":["gardenEntry"]}
 ---
 
 Добро пожаловать в сад моих идей!
